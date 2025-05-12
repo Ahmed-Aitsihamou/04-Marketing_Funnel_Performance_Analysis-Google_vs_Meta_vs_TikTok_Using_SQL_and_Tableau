@@ -121,4 +121,4 @@ The executive summary slide deck includes:
 
 **Ahmed Ait Si Hamou**  
 Data Analyst | Excel • SQL • Tableau • Power BI  
-[LinkedIn]([#](https://www.linkedin.com/in/ahmedaitsihamou/)) • [Portfolio](#) • [Tableau]([#](https://public.tableau.com/app/profile/ahmed.aitsihamou/vizzes)) • [GitHub]([#](https://github.com/Ahmed-Aitsihamou))
+[LinkedIn](https://www.linkedin.com/in/ahmedaitsihamou/) • [Portfolio](#) • [Tableau](https://public.tableau.com/app/profile/ahmed.aitsihamou/vizzes) • [GitHub](https://github.com/Ahmed-Aitsihamou)
