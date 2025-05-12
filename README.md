@@ -94,7 +94,7 @@ The executive summary slide deck includes:
 - Key findings per platform
 - Strategic recommendations for budget reallocation
 
-📥 [Download Slide Deck → `Marketing_Funnel_Insights.pdf`](#)
+📥 [Download Slide Deck → `Marketing_Funnel_Insights.pdf`](https://docs.google.com/presentation/d/1ron5ir6cfgsTQ0Yy5OpX5FDdnFmmE4ly/edit?usp=sharing&ouid=109021823672467213520&rtpof=true&sd=true)
 
 ---
 
