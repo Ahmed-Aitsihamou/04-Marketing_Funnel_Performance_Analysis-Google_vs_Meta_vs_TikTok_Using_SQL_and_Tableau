@@ -72,7 +72,7 @@ The SQL script aggregates and analyzes performance data per platform. It calcula
 - Grouping by platform
 - Computing funnel metrics
 
-📄 [View SQL Script → `marketing_funnel_analysis.sql`](./marketing_funnel_analysis.sql)
+📄 [View SQL Script → `marketing_funnel_analysis.sql`](https://github.com/Ahmed-Aitsihamou/04-Marketing_Funnel_Performance_Analysis-Google_vs_Meta_vs_TikTok_Using_SQL_and_Tableau/blob/main/03%20-%20marketing_funnel_analysis.sql)
 
 ---
 
